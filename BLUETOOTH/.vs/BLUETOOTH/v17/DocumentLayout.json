@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oooooooooooo\\Desktop\\xd\\testar_IDEs_novo - 8.0\\BLUETOOTH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B82CC4C-7B83-4EEC-8443-AFF4190C968E}|BLUETOOTH\\BLUETOOTH.csproj|c:\\users\\oooooooooooo\\desktop\\xd\\testar_ides_novo - 8.0\\bluetooth\\bluetooth\\bluetooth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B82CC4C-7B83-4EEC-8443-AFF4190C968E}|BLUETOOTH\\BLUETOOTH.csproj|solutionrelative:bluetooth\\bluetooth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B82CC4C-7B83-4EEC-8443-AFF4190C968E}|BLUETOOTH\\BLUETOOTH.csproj|c:\\users\\oooooooooooo\\desktop\\xd\\testar_ides_novo - 8.0\\bluetooth\\bluetooth\\bluetooth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B82CC4C-7B83-4EEC-8443-AFF4190C968E}|BLUETOOTH\\BLUETOOTH.csproj|solutionrelative:bluetooth\\bluetooth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B82CC4C-7B83-4EEC-8443-AFF4190C968E}|BLUETOOTH\\BLUETOOTH.csproj|c:\\users\\oooooooooooo\\desktop\\xd\\testar_ides_novo - 8.0\\bluetooth\\bluetooth\\reprovafalha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B82CC4C-7B83-4EEC-8443-AFF4190C968E}|BLUETOOTH\\BLUETOOTH.csproj|solutionrelative:bluetooth\\reprovafalha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BLUETOOTH.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\oooooooooooo\\Desktop\\xd\\testar_IDEs_novo - 8.0\\BLUETOOTH\\BLUETOOTH\\BLUETOOTH.cs",
+              "RelativeDocumentMoniker": "BLUETOOTH\\BLUETOOTH.cs",
+              "ToolTip": "C:\\Users\\oooooooooooo\\Desktop\\xd\\testar_IDEs_novo - 8.0\\BLUETOOTH\\BLUETOOTH\\BLUETOOTH.cs [Projeto]",
+              "RelativeToolTip": "BLUETOOTH\\BLUETOOTH.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:01:02.546Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BLUETOOTH.cs",
+              "DocumentMoniker": "C:\\Users\\oooooooooooo\\Desktop\\xd\\testar_IDEs_novo - 8.0\\BLUETOOTH\\BLUETOOTH\\BLUETOOTH.cs",
+              "RelativeDocumentMoniker": "BLUETOOTH\\BLUETOOTH.cs",
+              "ToolTip": "C:\\Users\\oooooooooooo\\Desktop\\xd\\testar_IDEs_novo - 8.0\\BLUETOOTH\\BLUETOOTH\\BLUETOOTH.cs",
+              "RelativeToolTip": "BLUETOOTH\\BLUETOOTH.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:01:02.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "REPROVAFALHA.cs",
+              "DocumentMoniker": "C:\\Users\\oooooooooooo\\Desktop\\xd\\testar_IDEs_novo - 8.0\\BLUETOOTH\\BLUETOOTH\\REPROVAFALHA.cs",
+              "RelativeDocumentMoniker": "BLUETOOTH\\REPROVAFALHA.cs",
+              "ToolTip": "C:\\Users\\oooooooooooo\\Desktop\\xd\\testar_IDEs_novo - 8.0\\BLUETOOTH\\BLUETOOTH\\REPROVAFALHA.cs",
+              "RelativeToolTip": "BLUETOOTH\\REPROVAFALHA.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:01:02.586Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

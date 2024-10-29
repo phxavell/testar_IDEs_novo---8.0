@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="AUDIO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AUDIOSTART.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CONFIRMALOOP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CONFIRMARAUD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ENVIAREPARO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LOOPBACK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MICROFONEINT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OUVIRLOOPBACK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OUVIRMICROFONE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="REPROVAFALHA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VALIDACONFIRMA1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VALIDACONFIRMA2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VALIDAOK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

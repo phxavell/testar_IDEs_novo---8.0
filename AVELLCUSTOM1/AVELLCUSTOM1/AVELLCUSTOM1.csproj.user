@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="AVELLCUSTOMOK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="B_ON.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CONFIRMACUSTOM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CUSTOM1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ENVIAREPARO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="REPROVAFALHAS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectView>ShowAllFiles</ProjectView>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="ENVIAREPARO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="REPROVAFALHA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TECLADO1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TECLADO10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TECLADO2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TECLADO3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TECLADO4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TECLADO5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TECLADO6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TECLADO7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TECLADO8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TECLADO9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TESTETECLADO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VALIDAOK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

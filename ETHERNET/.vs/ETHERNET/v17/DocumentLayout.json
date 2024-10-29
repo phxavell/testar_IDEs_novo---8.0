@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oooooooooooo\\Desktop\\xd\\testar_IDEs_novo - 8.0\\ETHERNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F47949F-B63F-4C47-804C-9E6A1EB8C8F9}|ETHERNET.csproj|c:\\users\\oooooooooooo\\desktop\\xd\\testar_ides_novo - 8.0\\ethernet\\ethernet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F47949F-B63F-4C47-804C-9E6A1EB8C8F9}|ETHERNET.csproj|solutionrelative:ethernet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F47949F-B63F-4C47-804C-9E6A1EB8C8F9}|ETHERNET.csproj|c:\\users\\oooooooooooo\\desktop\\xd\\testar_ides_novo - 8.0\\ethernet\\speedtest.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F47949F-B63F-4C47-804C-9E6A1EB8C8F9}|ETHERNET.csproj|solutionrelative:speedtest.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F47949F-B63F-4C47-804C-9E6A1EB8C8F9}|ETHERNET.csproj|c:\\users\\oooooooooooo\\desktop\\xd\\testar_ides_novo - 8.0\\ethernet\\ethernet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F47949F-B63F-4C47-804C-9E6A1EB8C8F9}|ETHERNET.csproj|solutionrelative:ethernet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ETHERNET.cs",
+              "DocumentMoniker": "C:\\Users\\oooooooooooo\\Desktop\\xd\\testar_IDEs_novo - 8.0\\ETHERNET\\ETHERNET.cs",
+              "RelativeDocumentMoniker": "ETHERNET.cs",
+              "ToolTip": "C:\\Users\\oooooooooooo\\Desktop\\xd\\testar_IDEs_novo - 8.0\\ETHERNET\\ETHERNET.cs",
+              "RelativeToolTip": "ETHERNET.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T19:03:34.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "speedtest.html",
+              "DocumentMoniker": "C:\\Users\\oooooooooooo\\Desktop\\xd\\testar_IDEs_novo - 8.0\\ETHERNET\\speedtest.html",
+              "RelativeDocumentMoniker": "speedtest.html",
+              "ToolTip": "C:\\Users\\oooooooooooo\\Desktop\\xd\\testar_IDEs_novo - 8.0\\ETHERNET\\speedtest.html",
+              "RelativeToolTip": "speedtest.html",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwD4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-28T19:01:32.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ETHERNET.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\oooooooooooo\\Desktop\\xd\\testar_IDEs_novo - 8.0\\ETHERNET\\ETHERNET.cs",
+              "RelativeDocumentMoniker": "ETHERNET.cs",
+              "ToolTip": "C:\\Users\\oooooooooooo\\Desktop\\xd\\testar_IDEs_novo - 8.0\\ETHERNET\\ETHERNET.cs [Projeto]",
+              "RelativeToolTip": "ETHERNET.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:57:46.457Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

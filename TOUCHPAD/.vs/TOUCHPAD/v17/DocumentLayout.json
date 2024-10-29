@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oooooooooooo\\Desktop\\xd\\testar_IDEs_novo - 8.0\\TOUCHPAD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAC9C7B-E2E1-4B3A-877C-1355EF2E578D}|TOUCHPAD\\TOUCHPAD.csproj|c:\\users\\oooooooooooo\\desktop\\xd\\testar_ides_novo - 8.0\\touchpad\\touchpad\\touchpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAC9C7B-E2E1-4B3A-877C-1355EF2E578D}|TOUCHPAD\\TOUCHPAD.csproj|solutionrelative:touchpad\\touchpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAC9C7B-E2E1-4B3A-877C-1355EF2E578D}|TOUCHPAD\\TOUCHPAD.csproj|c:\\users\\oooooooooooo\\desktop\\xd\\testar_ides_novo - 8.0\\touchpad\\touchpad\\validaok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAC9C7B-E2E1-4B3A-877C-1355EF2E578D}|TOUCHPAD\\TOUCHPAD.csproj|solutionrelative:touchpad\\validaok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAC9C7B-E2E1-4B3A-877C-1355EF2E578D}|TOUCHPAD\\TOUCHPAD.csproj|C:\\Users\\oooooooooooo\\Desktop\\xd\\testar_IDEs_novo - 8.0\\TOUCHPAD\\touchpad\\touchpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADAC9C7B-E2E1-4B3A-877C-1355EF2E578D}|TOUCHPAD\\TOUCHPAD.csproj|solutionrelative:touchpad\\touchpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PROJETOS_AVELL\\DESENVOLVIMENTO MAO\\PACOTE_DE_TESTES\\testar_IDEs_novo\\USB\\USB\\ARQVIVOSTEMP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ARQVIVOSTEMP.cs",
+              "DocumentMoniker": "D:\\PROJETOS_AVELL\\DESENVOLVIMENTO MAO\\PACOTE_DE_TESTES\\testar_IDEs_novo\\USB\\USB\\ARQVIVOSTEMP.cs",
+              "ToolTip": "D:\\PROJETOS_AVELL\\DESENVOLVIMENTO MAO\\PACOTE_DE_TESTES\\testar_IDEs_novo\\USB\\USB\\ARQVIVOSTEMP.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T17:53:32.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VALIDAOK.cs",
+              "DocumentMoniker": "C:\\Users\\oooooooooooo\\Desktop\\xd\\testar_IDEs_novo - 8.0\\TOUCHPAD\\TOUCHPAD\\VALIDAOK.cs",
+              "RelativeDocumentMoniker": "TOUCHPAD\\VALIDAOK.cs",
+              "ToolTip": "C:\\Users\\oooooooooooo\\Desktop\\xd\\testar_IDEs_novo - 8.0\\TOUCHPAD\\TOUCHPAD\\VALIDAOK.cs",
+              "RelativeToolTip": "TOUCHPAD\\VALIDAOK.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T17:53:09.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TOUCHPAD.cs",
+              "DocumentMoniker": "C:\\Users\\oooooooooooo\\Desktop\\xd\\testar_IDEs_novo - 8.0\\TOUCHPAD\\TOUCHPAD\\TOUCHPAD.cs",
+              "RelativeDocumentMoniker": "TOUCHPAD\\TOUCHPAD.cs",
+              "ToolTip": "C:\\Users\\oooooooooooo\\Desktop\\xd\\testar_IDEs_novo - 8.0\\TOUCHPAD\\TOUCHPAD\\TOUCHPAD.cs",
+              "RelativeToolTip": "TOUCHPAD\\TOUCHPAD.cs",
+              "ViewState": "AQIAAAEBAAAAAAAAAAAAAAAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:16:57.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TOUCHPAD.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\oooooooooooo\\Desktop\\xd\\testar_IDEs_novo - 8.0\\TOUCHPAD\\TOUCHPAD\\TOUCHPAD.cs",
+              "RelativeDocumentMoniker": "TOUCHPAD\\TOUCHPAD.cs",
+              "ToolTip": "D:\\PROJETOS_AVELL\\DESENVOLVIMENTO MAO\\PACOTE_DE_TESTES\\TOUCHPAD\\TOUCHPAD\\TOUCHPAD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-24T15:16:57.513Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

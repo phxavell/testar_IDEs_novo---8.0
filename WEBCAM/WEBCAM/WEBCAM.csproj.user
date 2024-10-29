@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="ENVIAREPARO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="REPROVAFALHA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VALIDARECFACIAL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WEBCAM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WEBCAM_RECFACE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
